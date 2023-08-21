@@ -1,0 +1,29 @@
+
+.preNav {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .preNav > div span {
+    margin: 0 5px;
+    font-weight: bold;
+  }
+  
+  .preNav > div a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .preNav > div a:hover {
+    text-decoration: underline;
+  }
+  
+.preNav > div svg {
+    fill: #fff;
+   
+  }
+  
